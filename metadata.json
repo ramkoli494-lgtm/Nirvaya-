@@ -1,0 +1,6 @@
+{
+  "name": "Nirvaya AI",
+  "description": "Next-generation multimodal AI workstation featuring dynamic personality core modes, active cognitive dashboards, speech synthesizers, and real-time reasoning visualization powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
